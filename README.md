@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+This is the first branch.
+
+This is the first commit.
